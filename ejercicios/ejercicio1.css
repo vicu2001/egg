@@ -1,0 +1,9 @@
+ .uno {margin: 30px;
+padding: 20px;
+width: 400px;
+height: 200px;
+background-color:aqua;
+display: flex;
+align-items: center;} 
+.dos {background-color: blueviolet}; 
+.tres {background-color: blue;}
